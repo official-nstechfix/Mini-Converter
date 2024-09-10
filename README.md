@@ -123,9 +123,6 @@ If you encounter any issues or bugs, please report them on the [Issues](https://
 - **Font Awesome**: Provides icons used in the extension's UI.
 - **Google Chrome**: The platform for which this extension is built.
 
-## 📬 Contact
-
-For any questions or feedback, feel free to contact the project maintainer at [nstechfix@gmail.com](nstechfix@gmail.com).
 
 ---
 
