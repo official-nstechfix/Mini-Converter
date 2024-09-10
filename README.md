@@ -113,7 +113,7 @@ If you’d like to contribute to this project, please follow these steps:
 
 ### Issues and Bug Reports
 
-If you encounter any issues or bugs, please report them on the [Issues](https://github.com/your-username/mini-converter-extension/issues) page of the repository. Include a detailed description of the issue and steps to reproduce it.
+If you encounter any issues or bugs, please report them on the [Issues](https://github.com/official-nstechfix/Mini-Converter/issues) page of the repository. Include a detailed description of the issue and steps to reproduce it.
 
 
 
