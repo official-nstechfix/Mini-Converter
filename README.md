@@ -21,7 +21,7 @@ Welcome to the **Mini Converter Chrome Extension**! This compact yet powerful to
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/mini-converter-extension.git
+   git clone https://github.com/official-nstechfix/Mini-Converter.git
 
 
 2. **Navigate to the Extension Directory**
@@ -115,9 +115,7 @@ If you’d like to contribute to this project, please follow these steps:
 
 If you encounter any issues or bugs, please report them on the [Issues](https://github.com/your-username/mini-converter-extension/issues) page of the repository. Include a detailed description of the issue and steps to reproduce it.
 
-## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgements
 
@@ -127,7 +125,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-For any questions or feedback, feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to contact the project maintainer at [nstechfix@gmail.com](nstechfix@gmail.com).
 
 ---
 
