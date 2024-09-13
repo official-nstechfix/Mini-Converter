@@ -42,6 +42,21 @@ Welcome to the **Mini Converter Chrome Extension**! This compact yet powerful to
    - Click on the extension icon in the Chrome toolbar to open the extension popup.
    - Enter a color code and choose a format to see the conversion results.
 
+## 📸 Screenshots
+
+### Light Mode
+![Extension Preview Light Mode](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Mini%20Converter/Light.png)
+
+
+---
+
+### Dark Mode
+
+![Extension Preview Dark Mode](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Mini%20Converter/Dark.png)
+
+
+---
+
 ## 📘 Usage
 
 ### Converting Colors
